@@ -1,6 +1,4 @@
-# Mes Projets - Développement Web
-
-Voici la liste de mes travaux pratiques :
+# Voici la liste de mes travaux pratiques :
 
 - [Quiz Project](https://github.com/Meryem-Khayati/tp)
 - [TP1](https://github.com/Meryem-Khayati/tp1)
