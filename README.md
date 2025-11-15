@@ -1,4 +1,4 @@
-# Voici la liste de mes travaux pratiques :
+# Voici la liste de mes travaux pratiques : Meryem Khayati (GINF)
 
 - [Quiz Project](https://github.com/Meryem-Khayati/tp)
 - [TP1](https://github.com/Meryem-Khayati/tp1)
