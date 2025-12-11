@@ -7,4 +7,5 @@
 - [Gestion des emplois](https://github.com/halimaEr/tp-gestion-emplois) Membres du groupe :Khayati Meryem et Er-Reguigue Halima  
 - [Gestion des blogs](https://github.com/Meryem-Khayati/blog-project)
 - [voting-app-tp6](https://github.com/Meryem-Khayati/voting-app) & [hosting link](https://voting-app-f3038.web.app)
-  
+- [forum-app](https://github.com/Meryem-Khayati/forum-project) & [hosting link](https://forum-project-dde91.web.app)
+
